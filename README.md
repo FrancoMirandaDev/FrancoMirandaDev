@@ -1,4 +1,4 @@
-### Hi I'm Franco. 👋 👨🏻‍💻
+### Hi! I'm Franco. 👋 👨🏻‍💻
 
 I'm web developer since 2022
 
