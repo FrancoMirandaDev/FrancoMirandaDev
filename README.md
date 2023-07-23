@@ -32,10 +32,10 @@ I'm web developer since 2022
 
 ### Contact with me
 
-<p align="center">
+
 <a href="https://www.linkedin.com/in/franco-miranda/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:franco.miranda.dev@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</p>
+
 <!--
 **FrancoMirandaDev/FrancoMirandaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
