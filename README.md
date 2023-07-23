@@ -29,11 +29,6 @@ I'm web developer since 2022
 
 ---
 
-### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=flincoop)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoMirandaDev)](https://github.com/FrancoMirandaDev/github-readme-stats)
-
----
 
 ### Contact with me
 
